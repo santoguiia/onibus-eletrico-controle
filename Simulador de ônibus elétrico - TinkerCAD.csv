@@ -1,0 +1,5 @@
+﻿Nome,Quantidade,Componente
+"U1",1," Arduino Uno R3"
+"Rpot1, Rpot2",2,"250 kΩ Potenciômetro"
+"R1",1,"47 kΩ Resistor"
+"C1",1,"1 uF, 16 V Capacitor polarizado"
